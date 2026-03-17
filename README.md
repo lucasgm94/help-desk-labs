@@ -31,16 +31,15 @@ Each ticket is backed by a specific entry in the Knowledge Base:
 * **KB-003:** Access Control Policy for Shared Folders.
 
 ## 🖼️ Visual Workflow
-*(Tip: Upload your screenshots to a folder named "img" and link them here)*
 
 ### 1. Jira Service Desk
-![Jira Dashboard](img/jira_01_dashboard.png)
+![Jira Dashboard](screenshots/jira_01_dashboard.png)
 
 ### 2. Confluence Documentation
-![Confluence KB](img/confluence_01_index.png.png)
+![Confluence KB](screenshots/confluence_01_index.png.png)
 
 ### 3. Trello Operational Board
-![Trello Board](img/trello_01_board.png.png)
+![Trello Board](screenshots/trello_01_board.png.png)
 
 ---
 
