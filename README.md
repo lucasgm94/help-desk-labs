@@ -33,7 +33,7 @@ Each ticket is backed by a specific entry in the Knowledge Base:
 ## 🖼️ Visual Workflow
 
 ### 1. Jira Service Desk
-![Jira Dashboard](screenshots/jira_01_dashboard.png)
+![Jira Dashboard](screenshots/jira_03_dashboard.png)
 
 ### 2. Confluence Documentation
 ![Confluence KB](screenshots/confluence_01_index.png.png)
